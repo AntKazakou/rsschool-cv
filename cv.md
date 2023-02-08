@@ -7,10 +7,10 @@
 ---
 
 ### Contact information:
-**Phone:** +48 571 935 055
-**E-mail:** anmorach@live.com
-[Telegram](https://t.me/AnMorach)
-[GitHub](https://github.com/AntKazakou/)
+**Phone:** +48 571 935 055  
+**E-mail:** [anmorach@live.com](anmorach@live.com) 
+[Telegram](https://t.me/AnMorach) 
+[GitHub](https://github.com/AntKazakou/) 
 
 ---
 
